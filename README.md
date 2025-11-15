@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub.
+# my resume
+This readme file is intended to describe my resume.
